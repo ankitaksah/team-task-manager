@@ -2,6 +2,12 @@
 
 A full-stack Team Task Management web application built using the MERN stack.
 
+#Live Application
+
+##Frontend:  https://team-task-manager-frontend-ehvr.onrender.com
+
+##Backend:   https://team-task-manager-backend-56cg.onrender.com
+
 ## Features
 
 - User Authentication (Login / Signup)
@@ -13,8 +19,9 @@ A full-stack Team Task Management web application built using the MERN stack.
 - Overdue Task Highlighting
 - Responsive Dashboard UI
 - MongoDB Database Integration
+- Role-based Access Control(Admin/Member)
 
-## Screenshots
+
 
 ## Screenshots
 
@@ -42,6 +49,7 @@ A full-stack Team Task Management web application built using the MERN stack.
 - React.js
 - React Router
 - CSS
+- Axios
 
 ### Backend
 - Node.js
@@ -78,14 +86,23 @@ team-task-manager/
 
 ```bash
 git clone https://github.com/ankitaksah/team-task-manager.git
+```
 
+### Backend Setup
+
+```bash
 cd backend
 npm install
 npm start
+```
 
+### Frontend Setup
+
+```bash
 cd frontend
 npm install
 npm start
+```
 
 
 ## Environment Variables
