@@ -14,6 +14,17 @@ A full-stack Team Task Management web application built using the MERN stack.
 - Responsive Dashboard UI
 - MongoDB Database Integration
 
+## Screenshots
+
+### Login Page(admin and member separately)
+![Login](screenshots/login.png)
+
+### Dashboard(admin and member) separately
+![Dashboard](screenshots/dashboard.png)
+
+### Tasks(admin creating and assigning task)
+![Tasks](screenshots/tasks.png)
+
 ---
 
 ## Tech Stack
