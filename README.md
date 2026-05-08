@@ -39,7 +39,7 @@ A full-stack Team Task Management web application built using the MERN stack.
 
 ### Tasks (admin creating and assigning task)
 
-![Tasks](screenshots/admin-creating-task.png)
+![Tasks](screenshots/admin-creating-a-task.png)
 
 ![Tasks](screenshots/admin-created-task.png)
 
