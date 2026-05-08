@@ -17,13 +17,15 @@ A full-stack Team Task Management web application built using the MERN stack.
 ## Screenshots
 
 ### Login Page(admin and member separately)
-![Login](screenshots/login.png)
+![Login](screenshots/admin login.png)
+![Login](screenshots/member login.png)
 
 ### Dashboard(admin and member) separately
-![Dashboard](screenshots/dashboard.png)
-
+![Dashboard](screenshots/admin dashboard.png)
+![Dashboard](screenshots/member dashboard.png)
 ### Tasks(admin creating and assigning task)
-![Tasks](screenshots/tasks.png)
+![Tasks](screenshots/admin creating a task.png)
+![Tasks](screenshots/admin created task.png)
 
 ---
 
