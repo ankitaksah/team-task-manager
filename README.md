@@ -19,7 +19,7 @@ A full-stack Team Task Management web application built using the MERN stack.
 - Overdue Task Highlighting
 - Responsive Dashboard UI
 - MongoDB Database Integration
-- Role-based Access Control(Admin/Member)
+- Role-based Access Control (Admin/Member)
 
 
 
